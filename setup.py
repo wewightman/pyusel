@@ -10,6 +10,9 @@ setup(
     author="Wren Wightman",
     author_email="wew12@duke.edu",
     long_description=readme,
-    install_requires=["pyusel-dispest"],
+    install_requires=[
+        "pyusel-dispest @ https://github.com/wewightman/pyusel-dispest/archive/main.tar.gz",
+        "pyusel-pyrho @ https://github.com/wewightman/pyusel-pyrho/archive/main.tar.gz"
+        ],
     version="0.0.0"
 )

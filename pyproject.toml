@@ -16,9 +16,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = [
-    "pyusel-dispest"
-]
 
 [project.urls]
 "Homepage" = "https://github.com/wewightman/pyusel"
