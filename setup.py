@@ -12,12 +12,6 @@ setup(
     long_description=readme,
     packages=[
         "pyusel",
-        "pyusel.data",
-        "pyusel.pycbf",
-        "pyusel.cinpy",
-        "pyusel.interp",
-        "pyusel.pyrho",
-        "pyusel.dispest"
     ],
     install_requires=[
         "numpy",
