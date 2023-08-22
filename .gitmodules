@@ -1,15 +1,1 @@
-[submodule "pyusel/pyusel-pyrho"]
-	path = pyusel/pyusel-pyrho
-	url = https://github.com/wewightman/pyusel-pyrho/
-[submodule "pyusel/pyusel-dispest"]
-	path = pyusel/pyusel-dispest
-	url = https://github.com/wewightman/pyusel-dispest
-[submodule "pyusel/pyusel-cinpy"]
-	path = pyusel/pyusel-cinpy
-	url = https://github.com/wewightman/pyusel-cinpy
-[submodule "pyusel/pyusel-interp"]
-	path = pyusel/pyusel-interp
-	url = https://github.com/wewightman/pyusel-interp
-[submodule "pyusel/pycbf"]
-	path = pyusel/pycbf
-	url = https://github.com/wewightman/pycbf
+

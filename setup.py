@@ -10,9 +10,19 @@ setup(
     author="Wren Wightman",
     author_email="wew12@duke.edu",
     long_description=readme,
+    packages=[
+        "pyusel",
+        "pyusel.data",
+        "pyusel.pycbf",
+        "pyusel.cinpy",
+        "pyusel.interp",
+        "pyusel.pyrho",
+        "pyusel.dispest"
+    ],
     install_requires=[
-        "pyusel-dispest @ https://github.com/wewightman/pyusel-dispest/archive/main.tar.gz",
-        "pyusel-pyrho @ https://github.com/wewightman/pyusel-pyrho/archive/main.tar.gz"
+        "numpy",
+        "scipy",
+        "mat73"
         ],
     version="0.0.0"
 )
